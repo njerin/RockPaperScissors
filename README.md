@@ -1,2 +1,2 @@
-# TestGit
-This is for testing git.
+# RockPaperScissors
+Code for Game: RockPaperScissors vs. The Computer Game
